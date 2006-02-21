@@ -1,0 +1,11 @@
+<space>
+  <cluster nbody="3">
+      <body id="1" type="star" mass="1" pos="0.9700436 -0.24308753 0" vel="0.466203685 0.43236573 0"/>
+      <body id="2" type="star" mass="1" pos="-0.9700436 0.24308753 0" vel="0.466203685 0.43236573 0"/>
+      <body id="3" type="star" mass="1" pos="0 0 0" vel="-.93240737 -.86473146 0"/>
+      <binary>
+        <body id="4" type="star" mass="2" pos="1 1 1" vel="0 1 0"/>
+        <body id="5" type="star" mass="2" pos="1 0 1" vel="0 1 2"/>
+      </binary>
+  </cluster>
+</space>

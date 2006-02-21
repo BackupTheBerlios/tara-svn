@@ -1,0 +1,24 @@
+<space>
+	<cluster>
+		<body mass="64" pos="67 118 14" vel="9 7 1"/>
+		<body mass="94" pos="58 126 29" vel="3 9 1"/>
+		<body mass="76" pos="10 193 26" vel="9 2 6"/>
+		<body mass="68" pos="55 266 18" vel="9 1 5"/>
+		<body mass="83" pos="86 290 5" vel="4 9 0"/>
+		<body mass="38" pos="73 186 12" vel="6 8 7"/>
+		<body mass="10" pos="95 262 29" vel="0 6 2"/>
+		<body mass="88" pos="62 248 7" vel="3 1 8"/>
+		<body mass="75" pos="43 121 20" vel="9 1 1"/>
+		<body mass="25" pos="22 129 26" vel="6 6 2"/>
+		<body mass="28" pos="2 114 20" vel="8 4 6"/>
+		<body mass="42" pos="20 184 19" vel="6 0 6"/>
+		<body mass="67" pos="48 145 11" vel="4 6 9"/>
+		<body mass="5" pos="95 250 19" vel="3 4 4"/>
+		<body mass="11" pos="55 36 24" vel="8 2 1"/>
+		<body mass="60" pos="59 83 17" vel="8 9 9"/>
+		<body mass="53" pos="49 6 27" vel="5 1 4"/>
+		<body mass="36" pos="65 75 29" vel="3 6 9"/>
+		<body mass="73" pos="95 146 26" vel="7 6 8"/>
+		<body mass="30" pos="94 56 0" vel="4 6 6"/>
+	</cluster>
+</space>

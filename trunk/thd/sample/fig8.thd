@@ -1,0 +1,7 @@
+<space>
+  <cluster>
+      <body id="1" type="star" mass="1" pos="0.9700436 -0.24308753 0" vel="0.466203685 0.43236573 0"/>
+      <body id="2" type="star" mass="1" pos="-0.9700436 0.24308753 0" vel="0.466203685 0.43236573 0"/>
+      <body id="3" type="star" mass="1" pos="0 0 0" vel="-0.93240737 -0.86473146 0"/>
+  </cluster>
+</space>

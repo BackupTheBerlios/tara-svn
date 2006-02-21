@@ -1,0 +1,5 @@
+Jan 17, 2006
+------------------------------
+hand-optimized the vector class. no loops whatsoever, everything is unrolled.
+minimum number of wasted lines, very tight code :D
+a factor of 2 speedup from before
